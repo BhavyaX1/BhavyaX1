@@ -2,11 +2,11 @@
 
 ## Hey, I'm Bhavya 👋
 
-🎓 **Student @ Aryabhatta College, University of Delhi**
-💻 **Aspiring Full-Stack Developer**
-🐧 **Linux + Hyprland enthusiast**
-⌨️ **Learning Neovim & becoming a keyboard-powered developer**
-🎮 **Gamer** | 🍥 **Anime lover**
+* 🎓 **Student @ Aryabhatta College, University of Delhi**
+* 💻 **Aspiring Full-Stack Developer**
+* 🐧 **Linux + Hyprland enthusiast**
+* ⌨️ **Learning Neovim & becoming a keyboard-powered developer**
+* 🎮 **Gamer** | 🍥 **Anime lover**
 
 ---
 
@@ -25,12 +25,18 @@ I'm currently on a journey to become a **job-ready / employable full-stack devel
 
 > **Goal:** Turn what I'm learning into real skills, real projects, and eventually a real job. 🚀
 
-🐧 My Setup
+## 🐧 My Setup
 
 Fedora • Hyprland • Neovim • Waybar • Yazi
 
 Currently ricing my setup while trying not to break it. 💀
 ---
+
+## 🎯 My Goal
+
+Learn → Build → Break → Fix → Improve → Repeat.
+
+I'm learning by building projects, experimenting with different tools, and slowly working my way towards becoming a full-stack developer.
 
 ## 🤝 Let's Connect
 
