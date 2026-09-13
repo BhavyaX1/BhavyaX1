@@ -30,16 +30,3 @@ I'm currently on a journey to become a **job-ready / employable full-stack devel
 Fedora • Hyprland • Neovim • Waybar • Yazi
 
 Currently ricing my setup while trying not to break it. 💀
----
-
-## 🎯 My Goal
-
-Learn → Build → Break → Fix → Improve → Repeat.
-
-I'm learning by building projects, experimenting with different tools, and slowly working my way towards becoming a full-stack developer.
-
-## 🤝 Let's Connect
-
-I'm always interested in meeting other developers, Linux enthusiasts, gamers, and people who are also figuring things out.
-
-⭐ Feel free to check out my repositories and follow along with my journey!
